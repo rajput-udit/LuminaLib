@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/000000/FFFFFF/?text=LuminaLib" width="120" alt="LuminaLib Logo"/>
+  <img src="docs/luminalib_logo.png" alt="LuminaLib Logo" width="180" />
   <h1>LuminaLib Frontend</h1>
   <p>A Modern, Secure, and Blazing-Fast Library Management Platform. Built for the Enterprise.</p>
 
